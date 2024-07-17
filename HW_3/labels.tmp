@@ -1,0 +1,46 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega32</DEVICE>
+ <WORKING_DIR>C:\Users\free\Desktop\UNI\term7\AZRizpar\3Melika</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\free\Desktop\UNI\term7\AZRizpar\3Melika\T3.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m32def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\free\Desktop\UNI\term7\AZRizpar\3Melika\T3.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\free\Desktop\UNI\term7\AZRizpar\3Melika\T3.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\free\Desktop\UNI\term7\AZRizpar\3Melika\T3.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <START><FILE>C:\Users\free\Desktop\UNI\term7\AZRizpar\3Melika\T3.asm</FILE><LINE>10</LINE></START>
+  <OC1><FILE>C:\Users\free\Desktop\UNI\term7\AZRizpar\3Melika\T3.asm</FILE><LINE>125</LINE></OC1>
+  <BEGIN><FILE>C:\Users\free\Desktop\UNI\term7\AZRizpar\3Melika\T3.asm</FILE><LINE>29</LINE></BEGIN>
+  <BEGINREVERSE><FILE>C:\Users\free\Desktop\UNI\term7\AZRizpar\3Melika\T3.asm</FILE><LINE>47</LINE></BEGINREVERSE>
+  <TIMER><FILE>C:\Users\free\Desktop\UNI\term7\AZRizpar\3Melika\T3.asm</FILE><LINE>59</LINE></TIMER>
+  <DISPLAY1><FILE>C:\Users\free\Desktop\UNI\term7\AZRizpar\3Melika\T3.asm</FILE><LINE>77</LINE></DISPLAY1>
+  <CONVERT><FILE>C:\Users\free\Desktop\UNI\term7\AZRizpar\3Melika\T3.asm</FILE><LINE>152</LINE></CONVERT>
+  <DELAY><FILE>C:\Users\free\Desktop\UNI\term7\AZRizpar\3Melika\T3.asm</FILE><LINE>196</LINE></DELAY>
+  <SETVAL><FILE>C:\Users\free\Desktop\UNI\term7\AZRizpar\3Melika\T3.asm</FILE><LINE>118</LINE></SETVAL>
+  <DISPLAY2><FILE>C:\Users\free\Desktop\UNI\term7\AZRizpar\3Melika\T3.asm</FILE><LINE>148</LINE></DISPLAY2>
+  <C1><FILE>C:\Users\free\Desktop\UNI\term7\AZRizpar\3Melika\T3.asm</FILE><LINE>157</LINE></C1>
+  <C2><FILE>C:\Users\free\Desktop\UNI\term7\AZRizpar\3Melika\T3.asm</FILE><LINE>161</LINE></C2>
+  <C3><FILE>C:\Users\free\Desktop\UNI\term7\AZRizpar\3Melika\T3.asm</FILE><LINE>165</LINE></C3>
+  <C4><FILE>C:\Users\free\Desktop\UNI\term7\AZRizpar\3Melika\T3.asm</FILE><LINE>169</LINE></C4>
+  <C5><FILE>C:\Users\free\Desktop\UNI\term7\AZRizpar\3Melika\T3.asm</FILE><LINE>173</LINE></C5>
+  <C6><FILE>C:\Users\free\Desktop\UNI\term7\AZRizpar\3Melika\T3.asm</FILE><LINE>177</LINE></C6>
+  <C7><FILE>C:\Users\free\Desktop\UNI\term7\AZRizpar\3Melika\T3.asm</FILE><LINE>181</LINE></C7>
+  <C8><FILE>C:\Users\free\Desktop\UNI\term7\AZRizpar\3Melika\T3.asm</FILE><LINE>185</LINE></C8>
+  <C9><FILE>C:\Users\free\Desktop\UNI\term7\AZRizpar\3Melika\T3.asm</FILE><LINE>189</LINE></C9>
+  <C10><FILE>C:\Users\free\Desktop\UNI\term7\AZRizpar\3Melika\T3.asm</FILE><LINE>192</LINE></C10>
+  <L1><FILE>C:\Users\free\Desktop\UNI\term7\AZRizpar\3Melika\T3.asm</FILE><LINE>197</LINE></L1>
+  <L2><FILE>C:\Users\free\Desktop\UNI\term7\AZRizpar\3Melika\T3.asm</FILE><LINE>198</LINE></L2>
+  <L3><FILE>C:\Users\free\Desktop\UNI\term7\AZRizpar\3Melika\T3.asm</FILE><LINE>199</LINE></L3>
+ </LABELS>
+</ASSEMBLER_INFO>
